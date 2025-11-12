@@ -1,0 +1,12 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
